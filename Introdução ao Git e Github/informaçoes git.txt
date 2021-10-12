@@ -1,0 +1,4 @@
+O Git é um sistema de controle de versão distribuído e amplamente adotado. 
+O Git nasceu e foi tomando espaço dos outros sistemas de controle. Seu criador principal é 
+o mesmo que o do Linux: Linus Torvalds, e ganhou o coração das pessoas que trabalham com 
+open source.
